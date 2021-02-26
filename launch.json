@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "My App",
+            "url": "",https://editor.wix.com/html/editor/web/renderer/edit/36f83269-b7a9-4248-84ff-d782d5744f3b?metaSiteId=a71d388f-2dbd-4233-8273-13f2a5ff9f3f&editorSessionId=82e5e44c-280b-4de9-a661-a1d2fab5c1a9&referralInfo=my-account
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
